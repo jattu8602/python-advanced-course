@@ -1,0 +1,25 @@
+# freeze command in code wit jatin env
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
